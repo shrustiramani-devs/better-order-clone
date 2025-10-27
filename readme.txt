@@ -1,5 +1,4 @@
 === Better Order Clone ===
-Contributors: Shrusti Ramani
 Tags: woocommerce, orders, clone, hpos, duplicate
 Requires at least: 5.6
 Tested up to: 6.8
